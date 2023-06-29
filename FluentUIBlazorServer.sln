@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33808.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentUIBlazorServer", "FluentUIBlazorServer\FluentUIBlazorServer.csproj", "{07B86E5D-6421-4A78-8A75-4EE3438C9E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B86E5D-6421-4A78-8A75-4EE3438C9E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B86E5D-6421-4A78-8A75-4EE3438C9E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B86E5D-6421-4A78-8A75-4EE3438C9E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B86E5D-6421-4A78-8A75-4EE3438C9E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFE50D3-E304-4112-AC3C-ADBBB3310249}
+	EndGlobalSection
+EndGlobal
